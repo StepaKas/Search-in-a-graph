@@ -14,3 +14,5 @@ Expected input si file formated like this:
 Where first number is the number of rows and second is number of columns. 
 
 Returned values is the number of connectected components.
+
+Project includes comments in czech language.
